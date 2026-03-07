@@ -31,7 +31,7 @@ Production-ready NLP API that detects semantic duplicate questions using Sentenc
 
 Tech: FastAPI • SentenceTransformers • XGBoost • Docker 
 
-## Spare Parts Demand Forecasting (Time Series - Self Project)
+## Spare Parts Demand Forecasting (Personal Project)
 
 The objective is to analyze spare parts usage patterns and predict future monthly demand using time-series forecasting models.
 
@@ -49,13 +49,13 @@ Creating a dashboard for spare parts demand monitoring
 
 Implementing MLOps workflow for automated retraining
 
-## 📰 All The News – RAG Chatbot (Self Project)
+## 📰 All The News – RAG Chatbot (Personal Project)
 
 A Retrieval-Augmented Generation system that answers news-based queries using vector search and LLM integration.
 
 Tech: LangChain • FAISS • HuggingFace • Streamlit • RAG Architecture • Docker • AWS EC2
 
-## AI Interview Coach Assistant (Self Project)
+## AI Interview Coach Assistant (Personal Project)
 
 An AI-powered assistant that simulates interview scenarios and provides intelligent responses feedback score and guidance.
 
