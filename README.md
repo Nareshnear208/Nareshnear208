@@ -104,7 +104,7 @@ Tech: LLMs • Prompt Engineering • Streamlit • Docker • AWS Based(Plannin
 
 GitHub: https://github.com/Nareshnear208
 
-LinkedIn: https://www.linkedin.com/in/nakka-naresh-babu-843a70360
+LinkedIn: https://www.linkedin.com/in/naresh-babu-nakka-70790011a
 
 Email: naresh.near208@gmail.com
 
