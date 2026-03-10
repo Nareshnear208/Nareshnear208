@@ -1,4 +1,4 @@
-## Hi, I'm [Nakka Naresh Babu]
+## Hi, I'm [NAKKA NARESH BABU]
 
 🎓 B.Tech Graduate | 🤖 Data Science & AI Enthusiast
 📍 India
@@ -61,14 +61,14 @@ An AI-powered assistant that simulates interview scenarios and provides intellig
 
 Tech: LLMs • Prompt Engineering • Streamlit • Docker • AWS Based(Planning)
 
-## 🛠 Tech Stack
+## Tech Stack
 - Languages: Python
 - AI/ML: Transformers, SentenceTransformers, XGBoost, Scikit-learn
 - LLM Tools: LangChain, RAG, HuggingFace , Ollama , Groq, LangGraph(on learning)
 - Backend: FastAPI
 - Frontend: Streamlit
 - DevOps: Docker, GitHub Actions
-- Cloud: AWS (EC2, Bedrock) 
+- Cloud: AWS(EC2) , streamlit
 
 ## Currently Working On
 
@@ -104,7 +104,7 @@ Tech: LLMs • Prompt Engineering • Streamlit • Docker • AWS Based(Plannin
 
 GitHub: https://github.com/Nareshnear208
 
-LinkedIn: https://www.linkedin.com/in/naresh-babu-nakka-70790011a
+LinkedIn: https://www.linkedin.com/in/naresh-babu-nakka
 
 Email: naresh.near208@gmail.com
 
